@@ -45,7 +45,7 @@ pip install -r requirements.txt
 3. Place the `telco.csv` file in the same directory
 4. Run the Jupyter notebook:
 ```
-jupyter notebook Survival_Analysis_Telecom_Churn.ipynb
+jupyter notebook Survival_Analysis.ipynb
 ```
 
 
